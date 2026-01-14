@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "0f80",
+      "name": "omkar",
+      "email": "omkar143sv@gmail.com"
+    },
+    {
+      "id": "8e41",
+      "name": "nagaprem",
+      "email": "nagaprem180@gmail.com"
+    },
+    {
+      "id": "5eaf",
+      "name": "Sharat Pradhan",
+      "email": "nagaprem180@gmail.com"
+    },
+    {
+      "id": "4179",
+      "name": "Sharat Pradhan",
+      "email": "nagaprem180@gmail.com"
+    }
+  ]
+}
